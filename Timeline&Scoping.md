@@ -1,8 +1,9 @@
 ## Web Accessibilty testing
-The aim of this project is to automate web accessibility testing, so that the web is accessible, approachable and navigable to all users and not just to some. So that even people with disabilities 
+The aim of this project is to automate web accessibility testing, so that the web is accessible, approachable and navigable to all users and not just to some. So that even people with disabilities are able to make the best possible use of the web.
 
 ### Scope of the project
-Our tests will check for these:
+Our tests will ensure these checks are in place:
+
 * Visual Impairment
   * Text alternatives for non-textual content should be present.
   * Captions should be present to supplement videos.
@@ -27,8 +28,10 @@ Our tests will check for these:
   * feedback forms and emails are present instead of phone number.
 
 ### Timeline
-* 4th March - 4th April 
-
+* 4th March - 4th April Research about web accessibility testing and testing tools/frameworks and prepare a scoping document.
+* 10th April - 30th June : After choosing the best possible solution (which can be one testing framework or a blend of more frameworks) code the test suite.
+* 31st June - 20th July : Integrate the code suite with the Jenkins CI.
+* 21st July - 30th August : Cleanup, write and update documentation.
 
 
 
