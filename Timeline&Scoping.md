@@ -33,6 +33,22 @@ Our tests will ensure these checks are in place:
 * 31st June - 20th July : Integrate the code suite with the Jenkins CI.
 * 21st July - 30th August : Cleanup, write and update documentation.
 
+In order to achieve the above tests I researched a few open source web accessibilty testing frameworks like axe cli, AATT and ppa11y. The best way of amalgamating features of these 3 testing frameworks is -
+
+
+
+
+
+
+
+
+
+
+
+After combining the testing frameworks we'll have a test suite with about 0 false positives and very good efficiency in testing for web accessibility. We can then begin to code the tests and integrate them with our Jenkins CI.
+A great step that we can take is by involving the community into this project so that they can suggest problems they face and we can try to code and incorporate those tests in our test suite. 
+
+
 
 
 
