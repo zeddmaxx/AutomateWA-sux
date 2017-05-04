@@ -33,8 +33,8 @@ Our tests will ensure these checks are in place:
 ### Timeline
 * <b>4th March - 30th April </b> Research about web accessibility testing and testing tools/frameworks and prepare a scoping document.
 * <b>1st May - 30th June</b>  : After choosing the best possible solution (which can be one testing framework or a blend of more frameworks) code the test suite.
-* <b>31st June - 20th July</b> : Integrate the code suite with the Jenkins CI.
-* <b>21st July - 30th August </b>: Cleanup, write and update documentation.
+* <b>1st July - 25th July</b> : Integrate the code suite with the Jenkins CI.
+* <b>26th July - 30th August </b>: Cleanup, write and update documentation.
 
 In order to achieve the above tests I researched a few open source web accessibilty testing frameworks like axe cli, Pa11y and AATT. The best way of amalgamating features of these testing frameworks-
 AATT has a really great felexible API available through which we can set the errors, output, engine and the level of checking that we want to do(e.g: WCAG2A, WCAG2AA etc), It can be used for checking the accessibility of pages that require Login and Sign Up. On the other hand Axe cli and Pa11y are great tools which have immense potential via the command line. 
